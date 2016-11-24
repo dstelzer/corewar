@@ -1,7 +1,7 @@
 
 # Core War
 
-[![Build Status](https://travis-ci.org/rodrigosetti/corewar.svg?branch=master)](https://travis-ci.org/rodrigosetti/corewar)
+[![Build Status](https://travis-ci.org/dstelzer/corewar.svg?branch=master)](https://travis-ci.org/dstelzer/corewar)
 
 The Canadian mathematician A. K. Dewdney (author of "The Planiverse") first
 introduced Core War in a series of Scientific American articles
